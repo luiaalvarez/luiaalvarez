@@ -4,3 +4,6 @@
 
 - :office: Credit Card Backend 12 - Yeeppers
 - :school: A graduated Systems Engineer from the **Universidad Tecnológica de Pereira** [:link:](https://www.utp.edu.co/)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=luiaalvarez.readme)
